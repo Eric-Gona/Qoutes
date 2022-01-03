@@ -1,3 +1,7 @@
+# Project Name
+Qoutes App
+# Author
+Eric Karisa
 # Qoutes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
@@ -25,3 +29,25 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Installation/Set up
++ Open Terminal {Ctrl+Alt+T}
+
++ git clone https://github.com/Owiti-Charles/Quotes-app.git
+
++ cd Quotes-app
+
++ code . or atom . based on the text editor you have.
+
+## Technologies used
+- HTML5
+- CSS
+- [AngulerCLI]
+- Markdown
+
+## Contact Information
+If you have any question or contributions, please email me at eric.karisa@student.moringaschool.com 
+
+## License
+MIT License:
+Copyright (c) 2022 Eric Karisa
