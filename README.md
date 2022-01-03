@@ -33,7 +33,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Installation/Set up
 + Open Terminal {Ctrl+Alt+T}
 
-+ git clone https://github.com/Owiti-Charles/Quotes-app.git
++ git clone https://github.com/Eric-Gona/Qoutes
 
 + cd Quotes-app
 
