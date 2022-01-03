@@ -8,7 +8,7 @@ import { AppComponent } from './app.component';
 @NgModule({
   declarations: [
     AppComponent
-    QouteComponent,
+    cQouteComponent,
     QuoteDetailsComponent,
     QuoteFormComponent,
     FooterComponent,
