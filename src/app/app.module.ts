@@ -8,19 +8,15 @@ import { AppComponent } from './app.component';
 @NgModule({
   declarations: [
     AppComponent
-    cQouteComponent,
-    QuoteDetailsComponent,
-    QuoteFormComponent,
-    FooterComponent,
-    StrikethroughDirective,
-    DateCountPipe,
-    BestVotedDirective,
-    ShowQuoteComponent,
+    QouteComponent,
+    Quote-detailsComponent,
+    FormsComponent,
+   
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
-    FormsModule
+    AppRoutingModule,
+    FormsModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
